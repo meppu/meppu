@@ -11,7 +11,7 @@
       <br>
       <a href="https://meppu.boo/blog/">blog</a>
       <br>
-      feel free to copy, modify and distribute the image and readme
+      feel free to copy, modify and distribute the image and readme.
     </samp>
   </p>
 </p>
