@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**meppu/meppu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p float="left">
+  <img src="banner-1.webp" width="256" align="left">
+  <p float="left">
+    <samp>
+      welcome to my github profile!
+      <br>
+      mostly interested in Rust and BEAM ecosystem.
+      <br>
+      <br>
+      <a href="https://meppu.boo/">website</a>
+      <br>
+      <a href="https://meppu.boo/blog/">blog</a>
+      <br>
+      feel free to copy, modify and distribute the image and readme
+    </samp>
+  </p>
+</p>
